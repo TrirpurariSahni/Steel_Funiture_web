@@ -162,7 +162,7 @@ SteelCraft/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sahaniTripurari/Steel_Funiture_web.git
+git clone https://github.com/TrirpurariSahni/Steel_Funiture_web.git
 cd Steel_Funiture_web
 ```
 
@@ -200,7 +200,7 @@ Frontend will run at `http://localhost:5173` connecting to the backend at `http:
 ## Author & Contact
 
 **Trirpurari Sahni** — Full-Stack Software Developer  
-- **GitHub**: [@sahaniTripurari](https://github.com/sahaniTripurari)  
+- **GitHub**: [@TrirpurariSahni](https://github.com/TrirpurariSahni)  
 - **Email**: sahanitrirpurari@gmail.com  
 - **Production URL**: [https://steelfurniture.vercel.app](https://steelfurniture.vercel.app)
 
