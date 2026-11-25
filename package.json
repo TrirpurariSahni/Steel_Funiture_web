@@ -1,6 +1,9 @@
 {
-  "name": "steelcraft-frontend",
+  "name": "steelcraft-web",
   "version": "1.0.0",
+  "description": "Premium Stainless Steel Furniture E-Commerce Platform",
+  "author": "Sahani Tripurari",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -13,7 +16,6 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "mongoose": "^8.19.2",
-    "puppeteer": "^24.42.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
