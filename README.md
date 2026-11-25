@@ -199,7 +199,7 @@ Frontend will run at `http://localhost:5173` connecting to the backend at `http:
 
 ## Author & Contact
 
-**Sahani Tripurari** — Full-Stack Software Developer  
+**Trirpurari Sahni** — Full-Stack Software Developer  
 - **GitHub**: [@sahaniTripurari](https://github.com/sahaniTripurari)  
 - **Email**: sahanitrirpurari@gmail.com  
 - **Production URL**: [https://steelfurniture.vercel.app](https://steelfurniture.vercel.app)
